@@ -1,0 +1,22 @@
+{
+  "name": "projetotestefilter",
+  "version": "1.0.0",
+  "description": "testar o filter angular",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/processi/PlacarFutebol.git"
+  },
+  "keywords": [
+    "Filter"
+  ],
+  "author": "Andre Felipe Martins Processi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/processi/PlacarFutebol/issues"
+  },
+  "homepage": "https://github.com/processi/PlacarFutebol#readme"
+}
